@@ -1,7 +1,9 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# krbudget2019
+# krbudget2019 <img src="man/figures/logo.png" align="right" height=140/>
+
+[![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 
 The goal of krbudget2019 is to provide [2019 korean budget
 data](http://newslabit.hankyung.com/article/201812187348G) as data

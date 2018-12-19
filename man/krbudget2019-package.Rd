@@ -6,6 +6,8 @@
 \alias{krbudget2019-package}
 \title{krbudget2019: Provide 2019 Korean Budget Data}
 \description{
+\if{html}{\figure{logo.png}{options: align='right'}}
+
 What the package does (one paragraph).
 }
 \seealso{
