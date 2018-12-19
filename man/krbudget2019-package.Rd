@@ -8,6 +8,14 @@
 \description{
 What the package does (one paragraph).
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/mrchypark/krbudget2019}
+  \item Report bugs at \url{https://github.com/mrchypark/krbudget2019/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Chanyub Park \email{mrchypark@gmail.com} (0000-0001-6474-2570)
 

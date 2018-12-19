@@ -1,0 +1,36 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+# krbudget2019
+
+The goal of krbudget2019 is to provide [2019 korean budget data](http://newslabit.hankyung.com/article/201812187348G) as data package.
+
+## Installation
+
+You can install the developing version of krbudget2019 from [Github](https://github.com/mrchypark/krbudget2019) with:
+
+``` r
+# install.packages("remotes")
+remotes::install_github("mrchypark/krbudget2019")
+```
+
+## Example
+
+use data
+
+```{r}
+library(krbudget2019)
+data(krbg)
+krbg
+```
