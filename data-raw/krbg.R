@@ -16,4 +16,4 @@ ind %>%
   bind_rows(outd) %>%
   select(`소관`, `입출분류`, `회계분류`, `계정`, `장(분야)`, everything()) -> krbg
 
-usethis::use_data(krbg)
+usethis::use_data(krbg, overwrite = TRUE)
